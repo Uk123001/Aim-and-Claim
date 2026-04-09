@@ -77,7 +77,7 @@ You play as the shooter in a timed arcade-style challenge. The objective is simp
 - This was possible only by the team effort put by my team members
   - Jiya Sachdeva
   - Harshith Laxman B
-  - Adina Sree Venkat Utham Kumar
+  - Ankur De
 
 ---
 
